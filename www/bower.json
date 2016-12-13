@@ -1,0 +1,25 @@
+{
+  "name": "TripTagToldMobile",
+  "description": "TripTagTold Mobile",
+  "main": "index.html",
+  "keywords": [
+    "Trip",
+    "Tag",
+    "Told"
+  ],
+  "authors": [
+    "Honyin"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
